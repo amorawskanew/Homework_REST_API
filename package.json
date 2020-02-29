@@ -9,7 +9,7 @@
     "node": "^13.8.0",
     "nodemon": "^2.0.2",
     "pg": "^7.18.2",
-    "sequelize": "^5.8.6"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {},
   "scripts": {
