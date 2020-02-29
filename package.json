@@ -1,0 +1,29 @@
+{
+  "name": "Homework_REST_API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sequelize-rest.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node": "^13.8.0",
+    "nodemon": "^2.0.2",
+    "pg": "^7.18.2",
+    "sequelize": "^5.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amorawskanew/Homework_REST_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amorawskanew/Homework_REST_API/issues"
+  },
+  "homepage": "https://github.com/amorawskanew/Homework_REST_API#readme"
+}
